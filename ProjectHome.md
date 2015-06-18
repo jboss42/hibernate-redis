@@ -1,0 +1,1 @@
+Hibernate Second Level Cache for Redis base on jedis
